@@ -10,7 +10,6 @@
 ############################################################################
 
 ## -- Loading Function and Library
-source('functions/functions.R')
 source('functions/TFO.R')
 library(AnalysisHelper)
 load.lib( c('ggplot2', 'RColorBrewer', 'ggnetwork',  'igraph', 'cowplot','graphlayouts', 
