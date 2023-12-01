@@ -5,7 +5,6 @@
 #### Metagenome analysis
 #### 2020.11.12 Fujita
 #### R 3.6.0
-#### Set working directory of 'MTS' folder -- setwd('~/Desktop/Microbiome_TimeSeries/MTS_metagenome/')
 #### setwd('../')
 ############################################################################
 
