@@ -10,7 +10,7 @@
 
 ## -- Loading Function and Library
 source('functions/TFO.R')
-library(AnalysisHelper)
+library(AnalysisHelper) #devtools::install_github("hiroakif93/R-functions/AnalysisHelper", force=TRUE)
 load.lib( c('ggplot2', 'RColorBrewer', 'ggnetwork',  'igraph', 'cowplot','graphlayouts', 
             'extrafont', 'vegan', 'tidyr', 'plot3D'))
 
